@@ -1,0 +1,753 @@
+﻿prefix,following key,shift second key,saved output,hex codepoints
+p,q,False,Ô,U+00D4
+p,w,False,±,U+00B1
+p,e,False,¨,U+00A8
+p,r,False,£,U+00A3
+p,t,False,®,U+00AE
+p,y,False,­,U+00AD
+p,u,False,¬,U+00AC
+p,i,False,û,U+00FB
+p,o,False,¥,U+00A5
+p,p,False,,
+p,a,False,«,U+00AB
+p,s,False,°,U+00B0
+p,d,False,²,U+00B2
+p,f,False,¡,U+00A1
+p,g,False,©,U+00A9
+p,h,False,¬,U+00AC
+p,j,False,§,U+00A7
+p,k,False,ª,U+00AA
+p,l,False,¥,U+00A5
+p,z,False,¦,U+00A6
+p,x,False,J,U+004A
+p,c,False,E,U+0045
+p,v,False,G,U+0047
+p,b,False,ù,U+00F9
+p,n,False,ú,U+00FA
+p,m,False,A,U+0041
+p,`,False,@,U+0040
+p,1,False,1,U+0031
+p,2,False,2,U+0032
+p,3,False,3,U+0033
+p,4,False,4,U+0034
+p,5,False,5,U+0035
+p,6,False,6,U+0036
+p,7,False,7,U+0037
+p,8,False,8,U+0038
+p,9,False,9,U+0039
+p,0,False,0,U+0030
+p,-,False,-,U+002D
+p,=,False,=,U+003D
+p,[,False,,
+p,],False,ø,U+00F8
+p,\,False,µ,U+00B5
+p,;,False,,
+p,',False,M,U+004D
+p,",",False,C,U+0043
+p,.,False,.,U+002E
+p,/,False,",",U+002C
+p,q,True,ð,U+00F0
+p,w,True,ß,U+00DF
+p,e,True,Ö,U+00D6
+p,r,True,Ñ,U+00D1
+p,t,True,á,U+00E1
+p,y,True,Û,U+00DB
+p,u,True,Ú,U+00DA
+p,i,True,I,U+0049
+p,o,True,¼,U+00BC
+p,p,True,,
+p,a,True,¶,U+00B6
+p,s,True,Þ,U+00DE
+p,d,True,à,U+00E0
+p,f,True,Ï,U+00CF
+p,g,True,Ý,U+00DD
+p,h,True,¯,U+00AF
+p,j,True,Õ,U+00D5
+p,k,True,Ø,U+00D8
+p,l,True,Ó,U+00D3
+p,z,True,Q,U+0051
+p,x,True,K,U+004B
+p,c,True,F,U+0046
+p,v,True,H,U+0048
+p,b,True,·,U+00B7
+p,n,True,ã,U+00E3
+p,m,True,B,U+0042
+p,`,True,@,U+0040
+p,1,True,³,U+00B3
+p,2,True,"""",U+0022
+p,3,True,´,U+00B4
+p,4,True,c,U+0063
+p,5,True,ì,U+00EC
+p,6,True,ê,U+00EA
+p,7,True,&,U+0026
+p,8,True,*,U+002A
+p,9,True,(,U+0028
+p,0,True,),U+0029
+p,-,True,ĭ,U+012D
+p,=,True,+,U+002B
+p,[,True,,
+p,],True,,
+p,\,True,|,U+007C
+p,;,True,,
+p,',True,O,U+004F
+p,",",True,D,U+0044
+p,.,True,.,U+002E
+p,/,True,?,U+003F
+P,q,False,Ô,U+00D4
+P,w,False,È,U+00C8
+P,e,False,¿,U+00BF
+P,r,False,º,U+00BA
+P,t,False,Å,U+00C5
+P,y,False,Ä,U+00C4
+P,u,False,Ã,U+00C3
+P,i,False,û,U+00FB
+P,o,False,¥,U+00A5
+P,p,False,,
+P,a,False,Â,U+00C2
+P,s,False,Ç,U+00C7
+P,d,False,É,U+00C9
+P,f,False,¸,U+00B8
+P,g,False,À,U+00C0
+P,h,False,Ã,U+00C3
+P,j,False,¾,U+00BE
+P,k,False,Á,U+00C1
+P,l,False,¼,U+00BC
+P,z,False,½,U+00BD
+P,x,False,J,U+004A
+P,c,False,E,U+0045
+P,v,False,G,U+0047
+P,b,False,ù,U+00F9
+P,n,False,ú,U+00FA
+P,m,False,A,U+0041
+P,`,False,@,U+0040
+P,1,False,1,U+0031
+P,2,False,2,U+0032
+P,3,False,3,U+0033
+P,4,False,4,U+0034
+P,5,False,5,U+0035
+P,6,False,6,U+0036
+P,7,False,7,U+0037
+P,8,False,8,U+0038
+P,9,False,9,U+0039
+P,0,False,0,U+0030
+P,-,False,-,U+002D
+P,=,False,=,U+003D
+P,[,False,,
+P,],False,ø,U+00F8
+P,\,False,Ì,U+00CC
+P,;,False,,
+P,',False,M,U+004D
+P,",",False,C,U+0043
+P,.,False,.,U+002E
+P,/,False,",",U+002C
+P,q,True,ð,U+00F0
+P,w,True,ß,U+00DF
+P,e,True,Ö,U+00D6
+P,r,True,Ñ,U+00D1
+P,t,True,á,U+00E1
+P,y,True,Û,U+00DB
+P,u,True,Ú,U+00DA
+P,i,True,I,U+0049
+P,o,True,¼,U+00BC
+P,p,True,,
+P,a,True,Í,U+00CD
+P,s,True,Þ,U+00DE
+P,d,True,à,U+00E0
+P,f,True,Ï,U+00CF
+P,g,True,Ý,U+00DD
+P,h,True,Æ,U+00C6
+P,j,True,Õ,U+00D5
+P,k,True,Ø,U+00D8
+P,l,True,Ó,U+00D3
+P,z,True,Q,U+0051
+P,x,True,K,U+004B
+P,c,True,F,U+0046
+P,v,True,H,U+0048
+P,b,True,Î,U+00CE
+P,n,True,ã,U+00E3
+P,m,True,B,U+0042
+P,`,True,@,U+0040
+P,1,True,Ê,U+00CA
+P,2,True,"""",U+0022
+P,3,True,Ë,U+00CB
+P,4,True,c,U+0063
+P,5,True,ì,U+00EC
+P,6,True,ê,U+00EA
+P,7,True,&,U+0026
+P,8,True,*,U+002A
+P,9,True,(,U+0028
+P,0,True,),U+0029
+P,-,True,ĭ,U+012D
+P,=,True,+,U+002B
+P,[,True,,
+P,],True,,
+P,\,True,|,U+007C
+P,;,True,,
+P,',True,O,U+004F
+P,",",True,D,U+0044
+P,.,True,.,U+002E
+P,/,True,?,U+003F
+;,q,False,Ô,U+00D4
+;,w,False,t,U+0074
+;,e,False,k,U+006B
+;,r,False,f,U+0066
+;,t,False,q,U+0071
+;,y,False,p,U+0070
+;,u,False,o,U+006F
+;,i,False,û,U+00FB
+;,o,False,¥,U+00A5
+;,p,False,,
+;,a,False,n,U+006E
+;,s,False,s,U+0073
+;,d,False,u,U+0075
+;,f,False,d,U+0064
+;,g,False,l,U+006C
+;,h,False,o,U+006F
+;,j,False,j,U+006A
+;,k,False,m,U+006D
+;,l,False,h,U+0068
+;,z,False,i,U+0069
+;,x,False,J,U+004A
+;,c,False,E,U+0045
+;,v,False,G,U+0047
+;,b,False,ù,U+00F9
+;,n,False,ú,U+00FA
+;,m,False,A,U+0041
+;,`,False,@,U+0040
+;,1,False,1,U+0031
+;,2,False,2,U+0032
+;,3,False,3,U+0033
+;,4,False,4,U+0034
+;,5,False,5,U+0035
+;,6,False,6,U+0036
+;,7,False,7,U+0037
+;,8,False,8,U+0038
+;,9,False,9,U+0039
+;,0,False,0,U+0030
+;,-,False,-,U+002D
+;,=,False,=,U+003D
+;,[,False,,
+;,],False,ø,U+00F8
+;,\,False,,
+;,;,False,,
+;,',False,e,U+0065
+;,",",False,C,U+0043
+;,.,False,.,U+002E
+;,/,False,",",U+002C
+;,q,True,ð,U+00F0
+;,w,True,ß,U+00DF
+;,e,True,Ö,U+00D6
+;,r,True,Ñ,U+00D1
+;,t,True,á,U+00E1
+;,y,True,Û,U+00DB
+;,u,True,Ú,U+00DA
+;,i,True,I,U+0049
+;,o,True,¼,U+00BC
+;,p,True,,
+;,a,True,y,U+0079
+;,s,True,Þ,U+00DE
+;,d,True,à,U+00E0
+;,f,True,Ï,U+00CF
+;,g,True,Ý,U+00DD
+;,h,True,r,U+0072
+;,j,True,Õ,U+00D5
+;,k,True,Ø,U+00D8
+;,l,True,Ó,U+00D3
+;,z,True,Q,U+0051
+;,x,True,K,U+004B
+;,c,True,F,U+0046
+;,v,True,H,U+0048
+;,b,True,z,U+007A
+;,n,True,ã,U+00E3
+;,m,True,B,U+0042
+;,`,True,@,U+0040
+;,1,True,v,U+0076
+;,2,True,"""",U+0022
+;,3,True,w,U+0077
+;,4,True,c,U+0063
+;,5,True,ì,U+00EC
+;,6,True,ê,U+00EA
+;,7,True,&,U+0026
+;,8,True,*,U+002A
+;,9,True,(,U+0028
+;,0,True,),U+0029
+;,-,True,ĭ,U+012D
+;,=,True,+,U+002B
+;,[,True,,
+;,],True,,
+;,\,True,|,U+007C
+;,;,True,,
+;,',True,g,U+0067
+;,",",True,D,U+0044
+;,.,True,.,U+002E
+;,/,True,?,U+003F
+:,q,False,Ô,U+00D4
+:,w,False,\,U+005C
+:,e,False,S,U+0053
+:,r,False,N,U+004E
+:,t,False,Y,U+0059
+:,y,False,X,U+0058
+:,u,False,W,U+0057
+:,i,False,û,U+00FB
+:,o,False,¥,U+00A5
+:,p,False,,
+:,a,False,V,U+0056
+:,s,False,[,U+005B
+:,d,False,],U+005D
+:,f,False,L,U+004C
+:,g,False,T,U+0054
+:,h,False,ô,U+00F4
+:,j,False,R,U+0052
+:,k,False,U,U+0055
+:,l,False,P,U+0050
+:,z,False,Q,U+0051
+:,x,False,J,U+004A
+:,c,False,E,U+0045
+:,v,False,G,U+0047
+:,b,False,ù,U+00F9
+:,n,False,ú,U+00FA
+:,m,False,A,U+0041
+:,`,False,@,U+0040
+:,1,False,1,U+0031
+:,2,False,2,U+0032
+:,3,False,3,U+0033
+:,4,False,4,U+0034
+:,5,False,5,U+0035
+:,6,False,6,U+0036
+:,7,False,7,U+0037
+:,8,False,8,U+0038
+:,9,False,9,U+0039
+:,0,False,0,U+0030
+:,-,False,-,U+002D
+:,=,False,=,U+003D
+:,[,False,,
+:,],False,ø,U+00F8
+:,\,False,`,U+0060
+:,;,False,,
+:,',False,M,U+004D
+:,",",False,C,U+0043
+:,.,False,.,U+002E
+:,/,False,",",U+002C
+:,q,True,ð,U+00F0
+:,w,True,ß,U+00DF
+:,e,True,Ö,U+00D6
+:,r,True,Ñ,U+00D1
+:,t,True,á,U+00E1
+:,y,True,Û,U+00DB
+:,u,True,ì,U+00EC
+:,i,True,I,U+0049
+:,o,True,¼,U+00BC
+:,p,True,,
+:,a,True,a,U+0061
+:,s,True,ð,U+00F0
+:,d,True,à,U+00E0
+:,f,True,Ï,U+00CF
+:,g,True,ï,U+00EF
+:,h,True,Z,U+005A
+:,j,True,Õ,U+00D5
+:,k,True,ê,U+00EA
+:,l,True,å,U+00E5
+:,z,True,Q,U+0051
+:,x,True,K,U+004B
+:,c,True,F,U+0046
+:,v,True,H,U+0048
+:,b,True,b,U+0062
+:,n,True,ã,U+00E3
+:,m,True,B,U+0042
+:,`,True,@,U+0040
+:,1,True,^,U+005E
+:,2,True,"""",U+0022
+:,3,True,_,U+005F
+:,4,True,c,U+0063
+:,5,True,ì,U+00EC
+:,6,True,ê,U+00EA
+:,7,True,&,U+0026
+:,8,True,*,U+002A
+:,9,True,(,U+0028
+:,0,True,),U+0029
+:,-,True,ĭ,U+012D
+:,=,True,+,U+002B
+:,[,True,,
+:,],True,,
+:,\,True,|,U+007C
+:,;,True,,
+:,',True,O,U+004F
+:,",",True,D,U+0044
+:,.,True,.,U+002E
+:,/,True,?,U+003F
+[,q,False,Ô,U+00D4
+[,w,False,ß,U+00DF
+[,e,False,Ö,U+00D6
+[,r,False,Ñ,U+00D1
+[,t,False,Ü,U+00DC
+[,y,False,Û,U+00DB
+[,u,False,Ú,U+00DA
+[,i,False,û,U+00FB
+[,o,False,¥,U+00A5
+[,p,False,,
+[,a,False,Ù,U+00D9
+[,s,False,Þ,U+00DE
+[,d,False,à,U+00E0
+[,f,False,Ï,U+00CF
+[,g,False,×,U+00D7
+[,h,False,Ú,U+00DA
+[,j,False,Õ,U+00D5
+[,k,False,Ø,U+00D8
+[,l,False,Ó,U+00D3
+[,z,False,Ô,U+00D4
+[,x,False,J,U+004A
+[,c,False,E,U+0045
+[,v,False,G,U+0047
+[,b,False,ù,U+00F9
+[,n,False,ú,U+00FA
+[,m,False,A,U+0041
+[,`,False,@,U+0040
+[,1,False,1,U+0031
+[,2,False,2,U+0032
+[,3,False,3,U+0033
+[,4,False,4,U+0034
+[,5,False,5,U+0035
+[,6,False,6,U+0036
+[,7,False,7,U+0037
+[,8,False,8,U+0038
+[,9,False,9,U+0039
+[,0,False,0,U+0030
+[,-,False,-,U+002D
+[,=,False,=,U+003D
+[,[,False,,
+[,],False,ø,U+00F8
+[,\,False,`,U+0060
+[,;,False,,
+[,',False,M,U+004D
+[,",",False,C,U+0043
+[,.,False,.,U+002E
+[,/,False,",",U+002C
+[,q,True,ð,U+00F0
+[,w,True,ß,U+00DF
+[,e,True,Ö,U+00D6
+[,r,True,Ñ,U+00D1
+[,t,True,á,U+00E1
+[,y,True,Û,U+00DB
+[,u,True,Ú,U+00DA
+[,i,True,I,U+0049
+[,o,True,¼,U+00BC
+[,p,True,,
+[,a,True,a,U+0061
+[,s,True,Þ,U+00DE
+[,d,True,à,U+00E0
+[,f,True,Ï,U+00CF
+[,g,True,Ý,U+00DD
+[,h,True,Ý,U+00DD
+[,j,True,Õ,U+00D5
+[,k,True,Ø,U+00D8
+[,l,True,Ó,U+00D3
+[,z,True,Q,U+0051
+[,x,True,K,U+004B
+[,c,True,F,U+0046
+[,v,True,H,U+0048
+[,b,True,b,U+0062
+[,n,True,ã,U+00E3
+[,m,True,B,U+0042
+[,`,True,@,U+0040
+[,1,True,^,U+005E
+[,2,True,"""",U+0022
+[,3,True,_,U+005F
+[,4,True,c,U+0063
+[,5,True,ì,U+00EC
+[,6,True,ê,U+00EA
+[,7,True,&,U+0026
+[,8,True,*,U+002A
+[,9,True,(,U+0028
+[,0,True,),U+0029
+[,-,True,ĭ,U+012D
+[,=,True,+,U+002B
+[,[,True,,
+[,],True,,
+[,\,True,|,U+007C
+[,;,True,,
+[,',True,O,U+004F
+[,",",True,D,U+0044
+[,.,True,.,U+002E
+[,/,True,?,U+003F
+{,q,False,Ô,U+00D4
+{,w,False,ñ,U+00F1
+{,e,False,è,U+00E8
+{,r,False,ã,U+00E3
+{,t,False,î,U+00EE
+{,y,False,í,U+00ED
+{,u,False,ì,U+00EC
+{,i,False,û,U+00FB
+{,o,False,¥,U+00A5
+{,p,False,,
+{,a,False,ë,U+00EB
+{,s,False,ð,U+00F0
+{,d,False,ò,U+00F2
+{,f,False,á,U+00E1
+{,g,False,é,U+00E9
+{,h,False,ì,U+00EC
+{,j,False,ç,U+00E7
+{,k,False,ê,U+00EA
+{,l,False,å,U+00E5
+{,z,False,æ,U+00E6
+{,x,False,J,U+004A
+{,c,False,E,U+0045
+{,v,False,G,U+0047
+{,b,False,ù,U+00F9
+{,n,False,ú,U+00FA
+{,m,False,A,U+0041
+{,`,False,@,U+0040
+{,1,False,1,U+0031
+{,2,False,2,U+0032
+{,3,False,3,U+0033
+{,4,False,4,U+0034
+{,5,False,5,U+0035
+{,6,False,6,U+0036
+{,7,False,7,U+0037
+{,8,False,8,U+0038
+{,9,False,9,U+0039
+{,0,False,0,U+0030
+{,-,False,-,U+002D
+{,=,False,=,U+003D
+{,[,False,,
+{,],False,ø,U+00F8
+{,\,False,`,U+0060
+{,;,False,,
+{,',False,M,U+004D
+{,",",False,C,U+0043
+{,.,False,.,U+002E
+{,/,False,",",U+002C
+{,q,True,ð,U+00F0
+{,w,True,ß,U+00DF
+{,e,True,Ö,U+00D6
+{,r,True,Ñ,U+00D1
+{,t,True,á,U+00E1
+{,y,True,Û,U+00DB
+{,u,True,Ú,U+00DA
+{,i,True,I,U+0049
+{,o,True,¼,U+00BC
+{,p,True,,
+{,a,True,a,U+0061
+{,s,True,Þ,U+00DE
+{,d,True,à,U+00E0
+{,f,True,Ï,U+00CF
+{,g,True,Ý,U+00DD
+{,h,True,ï,U+00EF
+{,j,True,Õ,U+00D5
+{,k,True,Ø,U+00D8
+{,l,True,Ó,U+00D3
+{,z,True,Q,U+0051
+{,x,True,K,U+004B
+{,c,True,F,U+0046
+{,v,True,H,U+0048
+{,b,True,b,U+0062
+{,n,True,ã,U+00E3
+{,m,True,B,U+0042
+{,`,True,@,U+0040
+{,1,True,^,U+005E
+{,2,True,"""",U+0022
+{,3,True,_,U+005F
+{,4,True,c,U+0063
+{,5,True,ì,U+00EC
+{,6,True,ê,U+00EA
+{,7,True,&,U+0026
+{,8,True,*,U+002A
+{,9,True,(,U+0028
+{,0,True,),U+0029
+{,-,True,ĭ,U+012D
+{,=,True,+,U+002B
+{,[,True,,
+{,],True,,
+{,\,True,|,U+007C
+{,;,True,,
+{,',True,O,U+004F
+{,",",True,D,U+0044
+{,.,True,.,U+002E
+{,/,True,?,U+003F
+],q,False,øÔ,U+00F8 U+00D4
+],w,False,ø\,U+00F8 U+005C
+],e,False,øS,U+00F8 U+0053
+],r,False,øN,U+00F8 U+004E
+],t,False,øY,U+00F8 U+0059
+],y,False,øX,U+00F8 U+0058
+],u,False,øW,U+00F8 U+0057
+],i,False,øû,U+00F8 U+00FB
+],o,False,ø¥,U+00F8 U+00A5
+],p,False,ø,U+00F8
+],a,False,øV,U+00F8 U+0056
+],s,False,ø[,U+00F8 U+005B
+],d,False,ø],U+00F8 U+005D
+],f,False,øL,U+00F8 U+004C
+],g,False,øT,U+00F8 U+0054
+],h,False,øô,U+00F8 U+00F4
+],j,False,øR,U+00F8 U+0052
+],k,False,øU,U+00F8 U+0055
+],l,False,øP,U+00F8 U+0050
+],z,False,øQ,U+00F8 U+0051
+],x,False,øJ,U+00F8 U+004A
+],c,False,øE,U+00F8 U+0045
+],v,False,øG,U+00F8 U+0047
+],b,False,øù,U+00F8 U+00F9
+],n,False,øú,U+00F8 U+00FA
+],m,False,øA,U+00F8 U+0041
+],`,False,ø@,U+00F8 U+0040
+],1,False,ø1,U+00F8 U+0031
+],2,False,ø2,U+00F8 U+0032
+],3,False,ø3,U+00F8 U+0033
+],4,False,ø4,U+00F8 U+0034
+],5,False,ø5,U+00F8 U+0035
+],6,False,ø6,U+00F8 U+0036
+],7,False,ø7,U+00F8 U+0037
+],8,False,ø8,U+00F8 U+0038
+],9,False,ø9,U+00F8 U+0039
+],0,False,ø0,U+00F8 U+0030
+],-,False,ø-,U+00F8 U+002D
+],=,False,ø=,U+00F8 U+003D
+],[,False,ø,U+00F8
+],],False,øø,U+00F8 U+00F8
+],\,False,ø`,U+00F8 U+0060
+],;,False,ø,U+00F8
+],',False,øM,U+00F8 U+004D
+],",",False,øC,U+00F8 U+0043
+],.,False,ø.,U+00F8 U+002E
+],/,False,"ø,",U+00F8 U+002C
+],q,True,øð,U+00F8 U+00F0
+],w,True,øß,U+00F8 U+00DF
+],e,True,øÖ,U+00F8 U+00D6
+],r,True,øÑ,U+00F8 U+00D1
+],t,True,øá,U+00F8 U+00E1
+],y,True,øÛ,U+00F8 U+00DB
+],u,True,øÚ,U+00F8 U+00DA
+],i,True,øI,U+00F8 U+0049
+],o,True,ø¼,U+00F8 U+00BC
+],p,True,ø,U+00F8
+],a,True,øa,U+00F8 U+0061
+],s,True,øÞ,U+00F8 U+00DE
+],d,True,øà,U+00F8 U+00E0
+],f,True,øÏ,U+00F8 U+00CF
+],g,True,øÝ,U+00F8 U+00DD
+],h,True,øZ,U+00F8 U+005A
+],j,True,øÕ,U+00F8 U+00D5
+],k,True,øØ,U+00F8 U+00D8
+],l,True,øÓ,U+00F8 U+00D3
+],z,True,øQ,U+00F8 U+0051
+],x,True,øK,U+00F8 U+004B
+],c,True,øF,U+00F8 U+0046
+],v,True,øH,U+00F8 U+0048
+],b,True,øb,U+00F8 U+0062
+],n,True,øã,U+00F8 U+00E3
+],m,True,øB,U+00F8 U+0042
+],`,True,ø@,U+00F8 U+0040
+],1,True,ø^,U+00F8 U+005E
+],2,True,"ø""",U+00F8 U+0022
+],3,True,ø_,U+00F8 U+005F
+],4,True,øc,U+00F8 U+0063
+],5,True,øì,U+00F8 U+00EC
+],6,True,øê,U+00F8 U+00EA
+],7,True,ø&,U+00F8 U+0026
+],8,True,ø*,U+00F8 U+002A
+],9,True,ø(,U+00F8 U+0028
+],0,True,ø),U+00F8 U+0029
+],-,True,øĭ,U+00F8 U+012D
+],=,True,ø+,U+00F8 U+002B
+],[,True,ø,U+00F8
+],],True,ø,U+00F8
+],\,True,ø|,U+00F8 U+007C
+],;,True,ø,U+00F8
+],',True,øO,U+00F8 U+004F
+],",",True,øD,U+00F8 U+0044
+],.,True,ø.,U+00F8 U+002E
+],/,True,ø?,U+00F8 U+003F
+},q,False,æ,U+00E6
+},w,False,\,U+005C
+},e,False,S,U+0053
+},r,False,N,U+004E
+},t,False,Y,U+0059
+},y,False,X,U+0058
+},u,False,W,U+0057
+},i,False,û,U+00FB
+},o,False,¥,U+00A5
+},p,False,,
+},a,False,V,U+0056
+},s,False,[,U+005B
+},d,False,],U+005D
+},f,False,L,U+004C
+},g,False,T,U+0054
+},h,False,ô,U+00F4
+},j,False,R,U+0052
+},k,False,U,U+0055
+},l,False,P,U+0050
+},z,False,Q,U+0051
+},x,False,J,U+004A
+},c,False,E,U+0045
+},v,False,G,U+0047
+},b,False,ù,U+00F9
+},n,False,ú,U+00FA
+},m,False,A,U+0041
+},`,False,@,U+0040
+},1,False,1,U+0031
+},2,False,2,U+0032
+},3,False,3,U+0033
+},4,False,4,U+0034
+},5,False,5,U+0035
+},6,False,6,U+0036
+},7,False,7,U+0037
+},8,False,8,U+0038
+},9,False,9,U+0039
+},0,False,0,U+0030
+},-,False,-,U+002D
+},=,False,=,U+003D
+},[,False,,
+},],False,ø,U+00F8
+},\,False,,
+},;,False,,
+},',False,M,U+004D
+},",",False,C,U+0043
+},.,False,.,U+002E
+},/,False,",",U+002C
+},q,True,ð,U+00F0
+},w,True,ñ,U+00F1
+},e,True,è,U+00E8
+},r,True,Ñ,U+00D1
+},t,True,á,U+00E1
+},y,True,í,U+00ED
+},u,True,Ú,U+00DA
+},i,True,I,U+0049
+},o,True,¼,U+00BC
+},p,True,,
+},a,True,a,U+0061
+},s,True,Þ,U+00DE
+},d,True,ò,U+00F2
+},f,True,Ï,U+00CF
+},g,True,Ý,U+00DD
+},h,True,Z,U+005A
+},j,True,ç,U+00E7
+},k,True,Ø,U+00D8
+},l,True,Ó,U+00D3
+},z,True,Q,U+0051
+},x,True,K,U+004B
+},c,True,F,U+0046
+},v,True,H,U+0048
+},b,True,b,U+0062
+},n,True,ã,U+00E3
+},m,True,B,U+0042
+},`,True,@,U+0040
+},1,True,^,U+005E
+},2,True,"""",U+0022
+},3,True,_,U+005F
+},4,True,c,U+0063
+},5,True,ì,U+00EC
+},6,True,ê,U+00EA
+},7,True,&,U+0026
+},8,True,*,U+002A
+},9,True,(,U+0028
+},0,True,),U+0029
+},-,True,ĭ,U+012D
+},=,True,+,U+002B
+},[,True,,
+},],True,,
+},\,True,|,U+007C
+},;,True,,
+},',True,O,U+004F
+},",",True,D,U+0044
+},.,True,.,U+002E
+},/,True,?,U+003F

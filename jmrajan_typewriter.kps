@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>18.0.0.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram />
+    <ReadMeFile />
+    <GraphicFile />
+    <LicenseFile />
+    <WelcomeFile />
+    <MSIFileName />
+    <MSIOptions />
+  </Options>
+  <StartMenu>
+    <Folder />
+    <Items />
+  </StartMenu>
+  <Info>
+    <Name URL="">J M Rajan (Knieoc Layout)</Name>
+    <Copyright URL="" />
+    <Author URL="" />
+    <Version URL="">1.0</Version>
+    <WebSite URL="" />
+    <Description URL="">J M Rajan (Knieoc Layout). Reconstructed from the tested Knieoc v3 keyboard. Not a full decompilation.</Description>
+  </Info>
+  <Files>
+    <File>
+      <Name>jmrajan_typewriter.kmx</Name>
+      <Description>J M Rajan (Knieoc Layout) keyboard</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <ID>jmrajan_typewriter</ID>
+      <Languages>
+        <Language ID="ta">Tamil</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <RelatedPackages />
+  <Strings />
+</Package>
